@@ -5,13 +5,13 @@
 <style>
     h1 {
         color: #5800FF;
-        font-family: Arial, Helvetica, sans-serif;
-        font-size: 5em;
+        font-family: 'Courier New', Courier, monospace;
+        font-size: 6em;
     }
 
     p {
         color: #000000;
-        font-family: Arial, Helvetica, sans-serif;
+        font-family: 'Courier New', Courier, monospace;
         font-size: 2em;
     }
 
