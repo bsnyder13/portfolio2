@@ -1,8 +1,18 @@
-<h1>Brad Snyder</h1>
+<div class="header">
+    <div class="navigation">
+        
+    </div>
+    <h1>Brad Snyder</h1>
+</div>
 
-<p>I'm Brad Snyder, an aspiring web developer with 20 years of customer support experience and 13 years of technical support experience. </p>
+
+<p>I'm Brad Snyder, an aspiring web developer with over 20 years of customer support and technical support experience. </p>
 
 <style>
+    header {
+        color:#000000;
+    }
+
     h1 {
         color: #5800FF;
         font-family: 'Courier New', Courier, monospace;
